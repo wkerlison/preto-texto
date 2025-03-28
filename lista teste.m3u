@@ -1024,6 +1024,16 @@ http://cdnrobot.info:2052/md387a/abc123ad/20271
 http://cdnrobot.info:2052/md387a/abc123ad/51
 #EXTINF:-1 tvg-id="Space SD" tvg-name="Space SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space SD
 http://cdnrobot.info:2052/md387a/abc123ad/50
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV  HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV
+http://newbox.space:80/marcos9561/81827368/1572303.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV  HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV
+http://newbox.space:80/marcos9561/81827368/1572319.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV  HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV
+http://newbox.space:80/marcos9561/81827368/1572344.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV  HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV
+http://newbox.space:80/marcos9561/81827368/1551061.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV  HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV
+http://newbox.space:80/marcos9561/81827368/1551061.ts
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV 2 HD
 http://cdnrobot.info:2052/md387a/abc123ad/47
 #EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SporTV 2 SD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV 2 SD
@@ -7951,14 +7961,5 @@ http://cdnrobot.info:2052/movie/md387a/abc123ad/50808.mp4
 http://cdnrobot.info:2052/movie/md387a/abc123ad/13133.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGpNMnM0d1NhQVRuNGpWQjMzY1YwNVBFYlY3LmpwZw==.jpg" group-title="Filmes | Acao",Lou (2022)
 http://cdnrobot.info:2052/movie/md387a/abc123ad/75001.mp4
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV HD
-http://newbox.space:80/marcos9561/81827368/1572303.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV hd
-http://newbox.space:80/marcos9561/81827368/1572319.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV hd
-http://newbox.space:80/marcos9561/81827368/1572344.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV hd
-http://newbox.space:80/marcos9561/81827368/1551061.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://server10.maxcdn.link:2052/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV hd
-http://newbox.space:80/marcos9561/81827368/1551061.ts
+
 

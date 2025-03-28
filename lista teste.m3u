@@ -7961,5 +7961,9 @@ http://cdnrobot.info:2052/movie/md387a/abc123ad/50808.mp4
 http://cdnrobot.info:2052/movie/md387a/abc123ad/13133.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGpNMnM0d1NhQVRuNGpWQjMzY1YwNVBFYlY3LmpwZw==.jpg" group-title="Filmes | Acao",Lou (2022)
 http://cdnrobot.info:2052/movie/md387a/abc123ad/75001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO 24H" tvg-logo="http://st1.horizonplay.io:8080/icon/9608-b-1729115160923.jpg" group-title="24H SÉRIES",ESCOLINHA DO PROFESSOR RAIMUNDO 24H
+http://hxznew.xyz:80/live/7201884963/49475897/714460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 24H" tvg-logo="http://st1.horizonplay.io:8080/icon/9781-b-1729123081871.jpg" group-title="24H SÉRIES",SAI DE BAIXO 24H
+http://hxznew.xyz:80/live/7201884963/49475897/759517.m3u8
 
 

@@ -7965,5 +7965,17 @@ http://cdnrobot.info:2052/movie/md387a/abc123ad/75001.mp4
 http://hxznew.xyz:80/live/7201884963/49475897/714460.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 24H" tvg-logo="http://st1.horizonplay.io:8080/icon/9781-b-1729123081871.jpg" group-title="24H ::: SÉRIES",SAI DE BAIXO 24H
 http://hxznew.xyz:80/live/7201884963/49475897/759517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | NOVELAS HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | NOVELAS HD
+http://hxznew.xyz:80/live/7201884963/49475897/744621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | POP HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | POP HD
+http://hxznew.xyz:80/live/7201884963/49475897/744620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | SAUDADE HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | SAUDADE HD
+http://hxznew.xyz:80/live/7201884963/49475897/744619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | SIMULCAST HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | SIMULCAST HD
+http://hxznew.xyz:80/live/7201884963/49475897/744618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | SILVIO SANTOS HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | SILVIO SANTOS HD
+http://hxznew.xyz:80/live/7201884963/49475897/744617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT | TV ZYN HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5621-b-1724713029987.jpg" group-title="REDE SBT",+SBT | TV ZYN HD
+http://hxznew.xyz:80/live/7201884963/49475897/744616.m3u8
 
 

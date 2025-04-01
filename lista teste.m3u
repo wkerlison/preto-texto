@@ -811,14 +811,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/156984
 http://cdnrobot.info:2052/md387a/abc123ad/113080
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pinky Felícia e o Cérebro" tvg-logo="http://painelsbo.painel.life/logosiptv/desenhos24/pinkfeliciaecerebro.png" group-title="24H ::: INFANTIL",Pinky Felícia e o Cérebro
 http://cdnrobot.info:2052/md387a/abc123ad/113081
-#EXTINF:-1 tvg-id="" tvg-name="Pit Bulls Condenados" tvg-logo="http://dns.maxptv.net:2052/images/f4c3ffe72cb0151f641286657514f545.png" group-title="24H ::: DISCOVERY+ ",Pit Bulls Condenados
-http://cdnrobot.info:2052/md387a/abc123ad/156985
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy FHD" tvg-logo="http://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy FHD
-http://cdnrobot.info:2052/md387a/abc123ad/20315
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy HD" tvg-logo="http://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy HD
-http://cdnrobot.info:2052/md387a/abc123ad/88
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy SD" tvg-logo="http://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy SD
-http://cdnrobot.info:2052/md387a/abc123ad/87
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pocoyo 24H" tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/204.png" group-title="24H ::: INFANTIL",Pocoyo 24H
 http://cdnrobot.info:2052/md387a/abc123ad/561
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pokemon 24H" tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/205.png" group-title="24H ::: INFANTIL",Pokemon 24H
@@ -1225,10 +1217,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/20255
 http://cdnrobot.info:2052/md387a/abc123ad/41
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network SD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network SD
 http://cdnrobot.info:2052/md387a/abc123ad/40
-#EXTINF:-1 tvg-id="Venus HD" tvg-name="Venus HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais :: [XXX] ADULTO",Venus HD
-http://cdnrobot.info:2052/md387a/abc123ad/10
-#EXTINF:-1 tvg-id="Venus SD" tvg-name="Venus SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais :: [XXX] ADULTO",Venus SD
-http://cdnrobot.info:2052/md387a/abc123ad/9
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Vikings (2013)" tvg-logo="http://painelsbo.painel.life/logosiptv/24horas/vikins.png" group-title="24H ::: SÉRIES",Vikings (2013)
 http://cdnrobot.info:2052/md387a/abc123ad/112840
 #EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo" tvg-logo="http://dns.maxptv.net:2052/images/019517fa37cb7b3b31b0fc090b37c340.png" group-title="24H ::: DISCOVERY+ ",Vivendo com o Inimigo

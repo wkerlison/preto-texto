@@ -1,40 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="220 Volts (2011)" tvg-logo="http://dns.maxptv.net:2052/images/67dba2f41f481df31ba945241c05405e.jpg" group-title="24H ::: SÉRIES",220 Volts (2011)
-http://cdnrobot.info:2052/md387a/abc123ad/157025
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="24h I Chaves " tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/153.png" group-title="24H ::: INFANTIL",24h I Chaves 
-http://cdnrobot.info:2052/md387a/abc123ad/40813
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="24h I Chaves Desenho" tvg-logo="http://srv.maxptvddns.org:2052/images/37a749d808e46495a8da1e5352d03cae.png" group-title="24H ::: INFANTIL",24h I Chaves Desenho
-http://cdnrobot.info:2052/md387a/abc123ad/40818
-#EXTINF:-1 tvg-id="" tvg-name="90" tvg-logo="http://dns.maxptv.net:2052/images/df884da14c157ad5afe0a1139d512d8b.jpg" group-title="Canais :: CLIPES 24H",90
-http://cdnrobot.info:2052/md387a/abc123ad/157216
-#EXTINF:-1 tvg-id="" tvg-name="90 Dias para Casar" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE151nUDnZvaibsJba7kvZV7xF5YO1J726W3dLEnKvMvNTMrFjYLWoUxu4leBozW-EYw.png" group-title="24H ::: DISCOVERY+ ",90 Dias para Casar
-http://cdnrobot.info:2052/md387a/abc123ad/156971
-#EXTINF:-1 tvg-id="" tvg-name="90 e 2000" tvg-logo="http://dns.maxptv.net:2052/images/7984afde329c71639aa83ecd43033988.png" group-title="Canais :: CLIPES 24H",90 e 2000
-http://cdnrobot.info:2052/md387a/abc123ad/157227
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Raven (2017)" tvg-logo="http://dns.maxptv.net:2052/images/e6cb210aa5034ad9e02b70eca43545af.jpg" group-title="24H ::: SÉRIES",A Casa da Raven (2017)
-http://cdnrobot.info:2052/md387a/abc123ad/157027
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família (2001)" tvg-logo="http://dns.maxptv.net:2052/images/ca3b5ee4a70a4665aaacee8cb36de7f5.jpg" group-title="24H ::: SÉRIES",A Grande Família (2001)
-http://cdnrobot.info:2052/md387a/abc123ad/157012
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Mansão Foster para Amigos Imaginários" tvg-logo="http://painelsbo.painel.life/logosiptv/desenhos24/mansaoforest.png" group-title="24H ::: INFANTIL",A Mansão Foster para Amigos Imaginários
-http://cdnrobot.info:2052/md387a/abc123ad/71667
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://painelsbo.painel.life/logosiptv/desenhos24/panterarosa.png" group-title="24H ::: INFANTIL",A Pantera Cor de Rosa
-http://cdnrobot.info:2052/md387a/abc123ad/113089
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Pequena Sereia (1992)" tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/136.png" group-title="24H ::: INFANTIL",A Pequena Sereia (1992)
-http://cdnrobot.info:2052/md387a/abc123ad/49724
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Vaca e o Frango" tvg-logo="http://painelsbo.painel.life/logosiptv/desenhos24/avacaeofrango.png" group-title="24H ::: INFANTIL",A Vaca e o Frango
-http://cdnrobot.info:2052/md387a/abc123ad/71665
-#EXTINF:-1 tvg-id="" tvg-name="Adolescência da geração 90 e 2000" tvg-logo="http://dns.maxptv.net:2052/images/352ded187d2e1d94a71a060f747d91e2.png" group-title="Canais :: CLIPES 24H",Adolescência da geração 90 e 2000
-http://cdnrobot.info:2052/md387a/abc123ad/157215
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim HD" tvg-logo="http://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim HD
-http://cdnrobot.info:2052/md387a/abc123ad/136111
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim SD" tvg-logo="http://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim SD
-http://cdnrobot.info:2052/md387a/abc123ad/136112
-#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Area Restrita" tvg-logo="http://dns.maxptv.net:2052/images/b4d2190c1e7e2bc5c63fdf84403a525a.png" group-title="24H ::: DISCOVERY+ ",Aeroporto Area Restrita
-http://cdnrobot.info:2052/md387a/abc123ad/156972
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais HD
-http://cdnrobot.info:2052/md387a/abc123ad/48331
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais SD
-http://cdnrobot.info:2052/md387a/abc123ad/48332
+
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Aladdin (1994)" tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/138.png" group-title="24H ::: INFANTIL",Aladdin (1994)
 http://cdnrobot.info:2052/md387a/abc123ad/42939
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES",AMC HD
@@ -49,28 +14,16 @@ http://cdnrobot.info:2052/md387a/abc123ad/20257
 http://cdnrobot.info:2052/md387a/abc123ad/232
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="Animal Planet SD" tvg-logo="http://server10.maxcdn.link:2052/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet SD
 http://cdnrobot.info:2052/md387a/abc123ad/231
-#EXTINF:-1 tvg-id="" tvg-name="Anos Incríveis (1988)" tvg-logo="http://dns.maxptv.net:2052/images/0e8fc1c0b4780242615e5eacaed72c70.jpg" group-title="24H ::: SÉRIES",Anos Incríveis (1988)
-http://cdnrobot.info:2052/md387a/abc123ad/157024
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo Morto (2003)" tvg-logo="http://dns.maxptv.net:2052/images/3307f4f390a77148539fb0930034c731.jpg" group-title="24H ::: SÉRIES",Arquivo Morto (2003)
-http://cdnrobot.info:2052/md387a/abc123ad/157028
-#EXTINF:-1 tvg-id="" tvg-name="ARRASTA PE" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE14Phhl4iiV8zPqMHhsn7y3dw5fJUr8aUJjmhmSF1wBN6.png" group-title="Canais :: CLIPES 24H",ARRASTA PE
-http://cdnrobot.info:2052/md387a/abc123ad/157212
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 HD
 http://cdnrobot.info:2052/md387a/abc123ad/136903
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 SD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 SD
 http://cdnrobot.info:2052/md387a/abc123ad/136904
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Jackie Chan (2000)" tvg-logo="http://painelsbo.painel.life/logosnovos/Infantil24h/139.png" group-title="24H ::: INFANTIL",As Aventuras de Jackie Chan (2000)
 http://cdnrobot.info:2052/md387a/abc123ad/49715
-#EXTINF:-1 tvg-id="" tvg-name="As mais tocadas 2000" tvg-logo="http://dns.maxptv.net:2052/images/b9085cdd55a5f2413675ca84f248f0d1.jpg" group-title="Canais :: CLIPES 24H",As mais tocadas 2000
-http://cdnrobot.info:2052/md387a/abc123ad/157217
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Meninas Super Poderosas" tvg-logo="http://srv.maxptv.net:8080/images/34aac5ee5fa607fcd7dcbd89c6123e4f.png" group-title="24H ::: INFANTIL",As Meninas Super Poderosas
 http://cdnrobot.info:2052/md387a/abc123ad/86067
 #EXTINF:-1 tvg-id="" tvg-name="As Piores Prisoes do Mundo" tvg-logo="http://dns.maxptv.net:2052/images/9d3d1f120a34e6dc97cda28dd9140e0d.png" group-title="24H ::: DISCOVERY+ ",As Piores Prisoes do Mundo
 http://cdnrobot.info:2052/md387a/abc123ad/156974
-#EXTINF:-1 tvg-id="" tvg-name="AXE 90S" tvg-logo="http://dns.maxptv.net:2052/images/2d49e95539381aa8cc354f0afd4a8694.png" group-title="Canais :: CLIPES 24H",AXE 90S
-http://cdnrobot.info:2052/md387a/abc123ad/157213
-#EXTINF:-1 tvg-id="" tvg-name="AXE DAS ANTIGAS" tvg-logo="http://dns.maxptv.net:2052/images/e0099da5183ef9465f9f21cf4c886ae5.png" group-title="Canais :: CLIPES 24H",AXE DAS ANTIGAS
-http://cdnrobot.info:2052/md387a/abc123ad/157214
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN FHD
 http://cdnrobot.info:2052/md387a/abc123ad/20234
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN HD
@@ -115,14 +68,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/23673
 http://cdnrobot.info:2052/md387a/abc123ad/219
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",BIs SD
 http://cdnrobot.info:2052/md387a/abc123ad/218
-#EXTINF:-1 tvg-id="" tvg-name="BLACK 2000 A 2009" tvg-logo="http://dns.maxptv.net:2052/images/286d0e31d92d03a0de4621dbcbecd483.jpg" group-title="Canais :: CLIPES 24H",BLACK 2000 A 2009
-http://cdnrobot.info:2052/md387a/abc123ad/157218
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Black Kamen Rider 24H" tvg-logo="http://painelsbo.painel.life/24rodrigo/2/BlackKamenRider.png" group-title="24H ::: SÉRIES",Black Kamen Rider 24H
-http://cdnrobot.info:2052/md387a/abc123ad/537
-#EXTINF:-1 tvg-id="" tvg-name="BLACK TOTAL" tvg-logo="http://dns.maxptv.net:2052/images/286d0e31d92d03a0de4621dbcbecd483.jpg" group-title="Canais :: CLIPES 24H",BLACK TOTAL
-http://cdnrobot.info:2052/md387a/abc123ad/157219
-#EXTINF:-1 tvg-id="" tvg-name="BLACK TOTAL HIP HOP" tvg-logo="http://dns.maxptv.net:2052/images/05306ba86c1366650c2c8c3509da1587.jpg" group-title="Canais :: CLIPES 24H",BLACK TOTAL HIP HOP
-http://cdnrobot.info:2052/md387a/abc123ad/157220
 #EXTINF:-1 tvg-id="BLMBRHD" tvg-name="Bloomberg HD" tvg-logo="http://cdnrobot.info:2052/images/208421fcbc090a62f099f85472ded9ba.png" group-title="Canais :: CORTESIA",Bloomberg HD
 http://cdnrobot.info:2052/md387a/abc123ad/49127
 #EXTINF:-1 tvg-id="BLMBRHD" tvg-name="Bloomberg SD" tvg-logo="http://cdnrobot.info:2052/images/208421fcbc090a62f099f85472ded9ba.png" group-title="Canais :: CORTESIA",Bloomberg SD
@@ -141,10 +86,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/40793
 http://cdnrobot.info:2052/md387a/abc123ad/113087
 #EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL",Boomerang HD
 http://cdnrobot.info:2052/md387a/abc123ad/217
-#EXTINF:-1 tvg-id="" tvg-name="Brasil 90 e 2000" tvg-logo="http://dns.maxptv.net:2052/images/352ded187d2e1d94a71a060f747d91e2.png" group-title="Canais :: CLIPES 24H",Brasil 90 e 2000
-http://cdnrobot.info:2052/md387a/abc123ad/157221
-#EXTINF:-1 tvg-id="" tvg-name="Buffy - A Ca‡a-Vampiros (1997)" tvg-logo="http://dns.maxptv.net:2052/images/f7591c86422338bd3071d075510b71fb.jpg" group-title="24H ::: SÉRIES",Buffy - A Ca‡a-Vampiros (1997)
-http://cdnrobot.info:2052/md387a/abc123ad/157029
 #EXTINF:-1 tvg-id="" tvg-name="Cacadores de Tempestades" tvg-logo="http://dns.maxptv.net:2052/images/2b0625f67870aa4662d709129464be8d.png" group-title="24H ::: DISCOVERY+ ",Cacadores de Tempestades
 http://cdnrobot.info:2052/md387a/abc123ad/156975
 #EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil FHD
@@ -153,8 +94,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/20227
 http://cdnrobot.info:2052/md387a/abc123ad/111747
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil SD
 http://cdnrobot.info:2052/md387a/abc123ad/111748
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Canal CSI 24H" tvg-logo="http://painelsbo.painel.life/24rodrigo/2/CanalCSI.png" group-title="24H ::: SÉRIES",Canal CSI 24H
-http://cdnrobot.info:2052/md387a/abc123ad/538
 #EXTINF:-1 tvg-id="Canal do Boi HD" tvg-name="Canal do Boi HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi HD
 http://cdnrobot.info:2052/md387a/abc123ad/20467
 #EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="Canal do Boi SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi SD

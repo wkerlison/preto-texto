@@ -11414,4 +11414,9 @@ http://hxznew.xyz:80/live/7201884963/49475897/938.m3u8
 http://hxznew.xyz:80/live/7201884963/49475897/959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24H" tvg-logo="http://script.horizonplay.io/thumbs/dd937c7cbef18532d2f210ef80205ea4.jpg" group-title="24H ANIMES",YU-GI-OH 24H
 http://hxznew.xyz:80/live/7201884963/49475897/958.m3u8
-
+#EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://sigcine1.space:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title="24H ::: SÉRIES",Sessão da Tarde 24H
+http://sigcine1.space:80/359869887/959413711/202266.ts
+#EXTINF:-1 tvg-id="Perdidos.no.Espaco.24H" tvg-name="Perdidos no Espaço 24H" tvg-logo="http://sigcine1.space:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQaU_L5qmunocRb1gYU_zshqhFIq5-CVXUnDcZhYDmE2Q.jpg" group-title="24H ::: SÉRIES",Perdidos no Espaço 24H
+http://sigcine1.space:80/359869887/959413711/202264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo 24H" tvg-logo="http://sigcine1.space:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSrZ5AC3QzwoNN8_KDyDqkxms4nuwVK6twjXIv62NXUBQ.png" group-title="24H ::: SÉRIES",Sai de Baixo 24H
+http://sigcine1.space:80/359869887/959413711/202268.ts

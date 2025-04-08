@@ -72,10 +72,6 @@ http://cdnrobot.info:2052/md387a/abc123ad/218
 http://cdnrobot.info:2052/md387a/abc123ad/49127
 #EXTINF:-1 tvg-id="BLMBRHD" tvg-name="Bloomberg SD" tvg-logo="http://cdnrobot.info:2052/images/208421fcbc090a62f099f85472ded9ba.png" group-title="Canais :: CORTESIA",Bloomberg SD
 http://cdnrobot.info:2052/md387a/abc123ad/49128
-#EXTINF:-1 tvg-id="BM&C HD" tvg-name="BM&C HD" tvg-logo="http://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ",BM&C HD
-http://cdnrobot.info:2052/md387a/abc123ad/136109
-#EXTINF:-1 tvg-id="BM&C HD" tvg-name="BM&C SD" tvg-logo="http://painelsbo.painel.life/newlogos/bmc.png" group-title="Canais :: NOTÍCIAS ",BM&C SD
-http://cdnrobot.info:2052/md387a/abc123ad/136110
 #EXTINF:-1 tvg-id="religioso.br" tvg-name="Boa Vontade TV HD" tvg-logo="http://cdnrobot.info:2052/images/144db912f997cb3c7c6473ebec0ab4fb.png" group-title="Canais :: CORTESIA",Boa Vontade TV HD
 http://cdnrobot.info:2052/md387a/abc123ad/49115
 #EXTINF:-1 tvg-id="religioso.br" tvg-name="Boa Vontade TV SD" tvg-logo="http://cdnrobot.info:2052/images/144db912f997cb3c7c6473ebec0ab4fb.png" group-title="Canais :: CORTESIA",Boa Vontade TV SD
